@@ -5,4 +5,6 @@
 0.0.0.0 www.yiv.com	
 0.0.0.0 poki.com
 0.0.0.0 addictinggames.com
-
+0.0.0.0 www.pogo.com
+0.0.0.0 www.addictinggames.com
+0.0.0.0 www.agame.com
